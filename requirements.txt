@@ -4,7 +4,7 @@ gnureadline==6.3.3
 ipython==2.3.0
 requests==2.4.3
 stevedore==0.7.2
-urllib3==1.9.1
+urllib3==1.24.2
 virtualenv==1.8.4
 virtualenv-clone==0.2.4
 virtualenvwrapper==3.6
