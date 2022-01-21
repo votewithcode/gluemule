@@ -1,7 +1,7 @@
 distribute==0.6.32
 elasticsearch==1.2.0
 gnureadline==6.3.3
-ipython==2.3.0
+ipython==7.16.3
 requests==2.4.3
 stevedore==0.7.2
 urllib3==1.9.1
